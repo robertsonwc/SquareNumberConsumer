@@ -1,0 +1,3 @@
+[submodule "SquareNumber"]
+	path = SquareNumber
+	url = https://github.com/robertsonwc/SquareNumber.git
