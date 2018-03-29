@@ -1,3 +1,12 @@
 [submodule "SquareNumber"]
 	path = SquareNumber
 	url = https://github.com/robertsonwc/SquareNumber.git
+[submodule "libsn"]
+	path = libsn
+	url = https://github.com/robertsonwc/SquareNumber.git
+[submodule "lib/sn"]
+	path = lib/sn
+	url = https://github.com/robertsonwc/SquareNumber.git
+[submodule "ReferenceLibrary/SquareNumber"]
+	path = ReferenceLibrary/SquareNumber
+	url = https://github.com/robertsonwc/SquareNumber.git
